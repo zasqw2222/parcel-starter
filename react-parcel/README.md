@@ -10,7 +10,7 @@ npm i babel-preset-react parcel-bundler -D
 
 - 2.添加 `.babelrc`
 
-```
+```json
 {
   "presets": ["react"]
 }
@@ -19,7 +19,7 @@ npm i babel-preset-react parcel-bundler -D
 
 - 3.添加 `npm script`
 
-```
+```json
 // package.json
   ...
   "scripts": {
@@ -30,7 +30,7 @@ npm i babel-preset-react parcel-bundler -D
 
 - 4.配置入口 index.html
 
-```
+```html
 <html>
   <head>
     <title>react-parcel</title>
@@ -44,7 +44,7 @@ npm i babel-preset-react parcel-bundler -D
 
 - 5.配置 `src` 开发目录
 
-```
+```js
 // index.js
 import React from 'react'
 import ReactDOM from 'react-dom'
@@ -106,3 +106,9 @@ export default App
 
 ```
 
+
+- 6.运行
+
+`npm run dev`
+
+open `http://localhost:1234`
