@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"./index.css","loc":{"line":1,"column":7}}],"generated":{"js":"\"use strict\";\n\nrequire(\"./index.css\");\n\nconsole.log(\"hello world\");\n\nconsole.log('front end');"},"hash":"a5000409d5ad41e488dba03998d55c7e"}

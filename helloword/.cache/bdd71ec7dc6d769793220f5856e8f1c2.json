@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<html>\n<body>\n  <div class=\"hello\">\n    <h1>Hello Parcel</h1>\n  </div>\n  <div class=\"sub_title\">\n    <span>just use parcel bundler</span>      \n  </div>\n  <script src=\"\\dist\\parcel-starter.js\"></script>\n  </body>\n  </html>\n"},"hash":"8d069d4d48b6b21a9233311591602dfa"}
