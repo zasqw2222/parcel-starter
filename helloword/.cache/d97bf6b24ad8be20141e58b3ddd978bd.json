@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<html>\n<body>\n  hello word\n  <script src=\"\\dist\\parcel-starter.js\"></script>\n  </body>\n  </html>\n"},"hash":"dc0f276ced991b0812d305d6cbdb7404"}
